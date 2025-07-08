@@ -1,8 +1,8 @@
-streamlit
-pandas
-pandasql
-python-dotenv
-groq
-semantic-router[local]
-chromadb
-sentence_transformers
+streamlit==1.43.2
+pandas==2.3.0
+pandasql==0.7.3
+python-dotenv==1.0.1
+groq==0.29.0
+semantic-router==0.1.9
+chromadb==1.0.15
+sentence-transformers==5.0.0
